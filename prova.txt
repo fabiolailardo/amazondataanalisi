@@ -1,9 +1,4 @@
 ok
-<<<<<<< HEAD
-liiuhfkgfkyf
-git
-vvv
-=======
 liiuhfkglisufgfsljHEGF
 git
->>>>>>> 2931d799a8d0dc66ba1efcaa58c6000b9cbaa3bd
+vvv
